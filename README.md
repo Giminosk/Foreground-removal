@@ -1,4 +1,4 @@
-# PUT-CV-foreground-removal
+# CV-foreground-removal
 Algorithm contains:
 - Objects segmentation by image comparison
 - Maximum Likelihood Estimation (probability for each pixel)
